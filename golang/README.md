@@ -1,3 +1,9 @@
+## Go version
+`go1.9`
+
+## CentOS version
+`6.7`
+
 ## Setup
 Install Vagrant
 - https://www.vagrantup.com/
